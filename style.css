@@ -54,6 +54,11 @@ header {
   
 }
 
+@media(max-width: 992px){
+  .card{
+    display: contents;
+  }
+}
 .product-image{
   height: 300px;
   width: 100%;
