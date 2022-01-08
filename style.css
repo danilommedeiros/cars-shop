@@ -73,10 +73,22 @@ header {
   border-radius: 20px;
 
 }
+@media(max-width: 992px){
+    #img-1{
+      margin-top: 50px;
+    
+  }
+}
 #img-2 {
    background-image: url(./img/car2.jpg);
    border-radius: 20px;
 
+}
+@media(max-width: 992px){
+    #img-2{
+      margin-top: 50px;
+   
+  }
 }
 
 #img-3 {
@@ -84,22 +96,41 @@ header {
    border-radius: 20px;
 
 }
+@media(max-width: 992px){
+    #img-3{
+      margin-top: 50px;
+    
+  }
+}
 
 #img-4 {
    background-image: url(./img/car4.jpg);
    border-radius: 20px;
-
+}
+@media(max-width: 992px){
+    #img-4{
+      margin-top: 50px;
+    
+  }
 }
 #img-5 {
    background-image: url(./img/car5.jpg);
    border-radius: 20px;
-
+}
+@media(max-width: 992px){
+    #img-5{
+    margin-top: 50px;
+  }
 }
 
 #img-6 {
    background-image: url(./img/car6.jpeg);
    border-radius: 20px;
-
+}
+@media(max-width: 992px){
+    #img-6{
+      margin-top: 50px;
+  }
 }
 
 footer {
