@@ -19,6 +19,11 @@ header {
   background-repeat: no-repeat;
   background-position: center;
 }
+@media(max-width: 992px){
+  header{
+    background-image: none;
+  }
+}
 
 #background {
   width: 100vw;
@@ -165,3 +170,6 @@ footer {
   transition: 600ms;
 }
 
+.btn{
+  cursor: pointer;
+}
